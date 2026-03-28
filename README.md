@@ -1,6 +1,6 @@
 # Diffusion model in web browser
 
-
+[Online Demo! Run it in your web browser ](https://wcy-9.github.io/diffusion_model/)
 [Online Demo! Run it in your web browser ](https://wangjia184.github.io/diffusion_model/)
 
 * 第一集: https://www.bilibili.com/video/BV1tz4y1h7q1 | 正态分布 | 基本设定 | 公式推导 |
